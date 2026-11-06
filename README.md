@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 10 |
+| 20 | 10 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [games](#games) (2)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (4)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -61,6 +61,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -82,6 +83,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Smyle-Goyal/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
